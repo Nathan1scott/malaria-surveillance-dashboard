@@ -1,0 +1,14 @@
+{
+  "fetch_date": "2026-05-20T14:45:09.145399",
+  "datasets": {
+    "malaria_cases": {
+      "status": "error"
+    },
+    "suspected_cases": {
+      "status": "error"
+    },
+    "mortality_rate": {
+      "status": "error"
+    }
+  }
+}
